@@ -1,1 +1,1 @@
-# z3-cpp-solver-theorem-prover-microsoft-research
+# z3-cpp-solver |theorem-prover| by-microsoft-research
